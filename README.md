@@ -1,5 +1,5 @@
 <h1 align="center">Cześć 👋, Jestem Maciej</h1>
-<h3 align="center">22 letni pasjonat Web Developerki</h3>
+<h3 align="center">21 letni pasjonat Web Developerki</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
