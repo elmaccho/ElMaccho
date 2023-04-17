@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Na web developera uczę się już półtora roku. Przerobiłem dużo tutoriali <b>HTMLa</b>, **CSSa** a także kursy **JavaScripta**. 
+  Na web developera uczę się już półtora roku. Przerobiłem dużo tutoriali <b>HTMLa</b>, <b>CSSa</b> a także kursy <b>JavaScripta</b>. 
+  Obecnie znajduję się na nauce <b> PHP </b> oraz <b> MySQL </b> a także frameworków - <b> React, Angular </b>.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
