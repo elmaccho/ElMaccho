@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Na web developera uczę się już półtora roku. Przerobiłem dużo tutoriali **HTMLa**, **CSSa** a także kursy **JavaScripta**. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
