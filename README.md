@@ -1,5 +1,5 @@
 <h1 align="center">Cześć 👋, Jestem Maciej</h1>
-<h3 align="center">21 letni pasjonat Web Developerki</h3>
+<h3 align="center">21 letni pasjonat Web Developmentu</h3>
 
 <p align="left">
   Na web developera uczę się już półtora roku. Przerobiłem dużo tutoriali <b>HTMLa</b>, <b>CSSa</b> a także kursy <b>JavaScripta</b>. 
