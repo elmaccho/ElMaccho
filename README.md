@@ -6,9 +6,10 @@ Hey! I'm passionate about designing and creating websites, I've been learning we
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/eeeeeeee1234567890/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a>
+    <a href="https://www.facebook.com/eeeeeeee1234567890/">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+      </a>
+<h4>Email: maciek.chojnacki22@wp.pl</h4>
 </p>
 
 <h2 align="left">My Stack:</h2>
